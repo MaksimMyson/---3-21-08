@@ -1,0 +1,42 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 200%;
+    text-align: center;
+}
+.line {
+    border-bottom: 2px solid #d3d3d3;
+}
+h2 {
+    font-size: 200%;
+    text-align: center;
+}
+.bold {
+    font-weight: bold;
+}
+.dotted {
+    border-bottom: 1px dotted #d82020;
+}
+code {
+    background-color: #d3d3d3;
+}
+.incline {
+    font-style: italic;
+}
+h3 {
+    font-size: 200%;
+    text-align: center;
+}
+.code1 {
+    background-color: #d3d3d3;
+    font-size: small;
+}
+.bol {
+    font-weight: bold;
+    font-size: small;
+}
+.fon {
+    background-color: #d3d3d3;
+}
+
